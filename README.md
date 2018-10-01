@@ -1,19 +1,19 @@
-# FbCMD4j
+﻿# FbCMD4j
 
-Facebook CLI client. For educational purposes only.
+Cliente de Facebook Por Arcadio Alonso (Alcon2219)
 
 ## Instalación
 
-TODO: Agregar proceso de instalación.
+Aca se indicará todo lo relacionado con la instalación 
 
 ## Uso
 
-TODO: Agregar instrucciones de uso
+En esta sección aparecerán todas las indicaciones de uso
 
 ## Créditos
 
-TODO: Agregar autor(es)
+Arcadio Alonos Sánche (Alcon2219)
 
 ## Licencia
 
-TODO: Agregar Licencia
+En esta sección aparecerán todo lo relacionado con la licencia.
