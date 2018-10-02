@@ -2,20 +2,20 @@
 
 Cliente de Facebook Por Arcadio Alonso (Alcon2219)
 
-Instalación
+# Instalación
 
 Aca se indicará todo lo relacionado con la instalación
 
 
-Uso
+# Uso
 
 En esta sección aparecerán todas las indicaciones de uso
 
 
-Créditos
+# Créditos
 
 Arcadio Alonos Sánche (Alcon2219)
 
 
-Licencia
+# Licencia
 En esta sección aparecerán todo lo relacionado con la licencia.
